@@ -10,7 +10,12 @@ Project Objectives :
 6.	Promote consistent and timely feeding for pet health and well-being.
 
 Description:
-The IoT pet feeder project aims to automate the feeding process for pets using Internet of Things (IoT) technology. It typically consists of a feeding mechanism controlled remotely via a mobile application or web interface. Users can schedule feeding times, portion sizes, and even monitor feeding activity remotely. Additionally, some versions may include features such as webcam integration for visual confirmation of feeding, notifications to alert owners of feeding events, and even automatic reordering of pet food when supplies run low. Overall, the project enhances convenience for pet owners and ensures their pets are fed on time, even when they're away from home.
+
+  The IoT pet feeder project aims to automate the feeding process for pets using Internet of Things (IoT) technology. It typically consists of a feeding mechanism 
+  controlled remotely via a mobile application or web interface. Users can schedule feeding times, portion sizes, and even monitor feeding activity remotely. 
+  Additionally, some versions may include features such as webcam integration for visual confirmation of feeding, notifications to alert owners of feeding events, 
+  and even automatic reordering of pet food when supplies run low. Overall, the project enhances convenience for pet owners and ensures their pets are fed on 
+  time, even when they're away from home.
 
 Hardware Specifications:
 1. Raspberrypi zero 2 w
